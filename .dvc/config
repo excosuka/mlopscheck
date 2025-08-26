@@ -1,0 +1,10 @@
+[core]
+    remote = mlrepmodel
+['remote "mlrep"']
+    url = ../data
+['remote "mlrep1"']
+    url = ../mlrepository
+['remote "mlrep2"']
+    url = ../data
+['remote "mlrepmodel"']
+    url = ../models
